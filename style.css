@@ -1,0 +1,13 @@
+span{
+    color:rgb(0, 60, 255);
+    font-size: 40px;
+}
+div{
+    background-color: blueviolet;
+    width: 200px;
+}
+.div2{
+    background-color: brown;
+    width: 200px;
+    color: burlywood;
+}
